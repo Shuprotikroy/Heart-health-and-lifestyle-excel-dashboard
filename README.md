@@ -1,7 +1,4 @@
 # Heart-health-and-lifestyle-excel-dashboard
-
-![Screenshot (246)](https://github.com/Shuprotikroy/Heart-health-and-lifestyle-excel-dashboard/assets/70252750/49b483e2-04cf-4209-991f-54b07ffa1211)
-
 ![ezgif com-video-to-gif](https://github.com/Shuprotikroy/Heart-health-and-lifestyle-excel-dashboard/assets/70252750/d0025345-5fbe-411f-9d47-8f27548df08e)
 
 
