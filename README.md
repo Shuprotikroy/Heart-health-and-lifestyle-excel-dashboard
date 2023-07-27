@@ -1,7 +1,10 @@
 # Heart-health-and-lifestyle-excel-dashboard
 
-𝐀𝐢𝐦 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭:-
+![Screenshot (246)](https://github.com/Shuprotikroy/Heart-health-and-lifestyle-excel-dashboard/assets/70252750/49b483e2-04cf-4209-991f-54b07ffa1211)
 
+
+
+𝐀𝐢𝐦 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭:-
 With the help of a dataset from Kaggle, numerous records of sleep health and lifestyle data has been analyzed in order to find out factors contributing to poor heart health in the form of an interactive excel dashboard.
 
 
